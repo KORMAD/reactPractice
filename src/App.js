@@ -18,6 +18,7 @@ function App() {
           Learn React3
           test
           test2
+          new-function
         </a>
       </header>
     </div>
